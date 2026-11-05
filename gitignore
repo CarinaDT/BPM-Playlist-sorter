@@ -1,0 +1,4 @@
+.env
+.spotify_token.json
+bpm_cache.db
+__pycache__/
